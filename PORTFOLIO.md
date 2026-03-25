@@ -37,14 +37,14 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 ### Management Consultant
 **Plume Design Inc. & Others | Sep 2017 – Feb 2019**
 - Delivered digital marketing and SEO strategies for early-stage clients, improving visibility and conversion.
-- Acquired BETA users for Plume across the U.S., Germany, and Netherlands at $4 CPA, achieving 600 signups with 40% qualification.
+- Acquired BETA users for Plume Homepass (DTC) across the U.S., Germany, and Netherlands at $4 CPA, achieving 600 signups with 40% qualification.
 - Survey and HTML emails to capture BETA feedback and optimize product insights.
 - Implemented VWO and web performance tools to enhance website conversion and UX.
 
-### Avast Software (SaaS) — Digital Marketing Specialist (B2C)
+### Avast Software (SaaS) — Digital Marketing Specialist (DTC)
 **Mar 2016 – Jun 2017 | Redwood City**
-- Developed and executed 12 global campaigns with cross-region teams and agencies; achieved CTR 5–12%, CPC $0.04, CPA $0.40.
-- Managed media buys (podcasts, radio, OOH), optimized downloads $10 → $2, and led IT/PC community campaigns on Spiceworks.
+- Developed and executed 12 global campaigns for Avast App (DTC) with cross-region teams and agencies; achieved CTR 5–12%, CPC $0.04, CPA $0.40.
+- Managed media buys (podcasts, radio, OOH), optimized app downloads $10 → $2, and led IT/PC community campaigns on Spiceworks.
 
 ### Rain Factory (Agency) — Digital Performance Specialist
 **Oct 2015 – Feb 2016 | Oakland**
@@ -69,9 +69,7 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 - **Spotify Podcast:** https://open.spotify.com/show/5BcfrOzTDXhAK3xRTbaJdK
 - **Spotify Artist:** https://open.spotify.com/artist/3MVD64MAW698ThKtage4Ds
 - **Achievements:** 2025 Spotify Wrapped - Marathon Show, Instant Hit Show, Talked About Show, 8-country global reach
-
-### Key Accomplishment
-- Created music using ElevenLabs Pro plan and released 24 songs on 150+ platforms worldwide in 3 months
+- Created music using ElevenLabs Pro plan and released 22 songs on 150+ platforms worldwide in 3 months
 
 ## Professional Testimonials & Endorsements
 
