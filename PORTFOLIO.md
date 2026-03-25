@@ -35,7 +35,7 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 - Built cross-functional reporting connecting Salesforce, GA, and Marketing Cloud, delivering C-suite performance insights.
 
 ### Management Consultant
-**Plume & Others | Sep 2017 – Feb 2019**
+**Plume Design Inc. & Others | Sep 2017 – Feb 2019**
 - Delivered digital marketing and SEO strategies for early-stage clients, improving visibility and conversion.
 - Acquired BETA users for Plume across the U.S., Germany, and Netherlands at $4 CPA, achieving 600 signups with 40% qualification.
 - Survey and HTML emails to capture BETA feedback and optimize product insights.
