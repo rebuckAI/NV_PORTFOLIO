@@ -17,6 +17,20 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 - Grew client accounts to maintain 2x ~ 4X ROAS. Overall 2X MER.
 - Built AI-driven content ecosystems on YouTube and Spotify (Adventures of Paws, Birthday Magic Adventures) using ChatGPT, Sora, ElevenLabs and Veo for automation in scripting, narration, and video production. 2025 Spotify Wrapped Report for Adventures of Paws showed Top 10% of all videos on Spotify, more popular than 96% of new shows, more comments than 97% of shows, more shares than 95% of shows. Shows have 140K+ Spotify plays and 70K+ streams and downloaders all time.
 - Created music using ElevenLab's Pro plan and released 24 songs on 150+ platforms worldwide in 3 months.
+## 🎵 Music & Content Work
+
+### Adventures of Paws
+- **YouTube:** https://www.youtube.com/@AdventuresofPaws/videos
+- **Spotify Podcast:** https://open.spotify.com/show/3jst1MWmyvGyYZoTeuUW5v
+- **Spotify Artist:** https://open.spotify.com/artist/78HvCp8CL6RotVccSXlBcE
+- **Achievements:** 101.5K Spotify plays, 3,146 consumption hours, +291 followers, 51,977 streams/downloads across 150+ platforms, 508 average per episode, 19,487 audience reach, 46.6% consumption conversion rate, 7-country global reach
+
+### Birthday Magic Adventures
+- **YouTube:** https://www.youtube.com/@BirthdayMagicAdventures
+- **Spotify Podcast:** https://open.spotify.com/show/5BcfrOzTDXhAK3xRTbaJdK
+- **Spotify Artist:** https://open.spotify.com/artist/3MVD64MAW698ThKtage4Ds
+- **Achievements:** 2025 Spotify Wrapped - Marathon Show, Instant Hit Show, Talked About Show, 8-country global reach
+- Created music using ElevenLabs Pro plan and released 22 songs on 150+ platforms worldwide in 3 months
 
 **Paternity Leave – 2023**
 
@@ -56,20 +70,7 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 - Assisted in the execution of digital marketing initiatives.
 - Conducted analysis to measure campaign effectiveness. Arlo camera; managed "Caught in the Act" community contest (SEO management & tracking). Created product placement ads for TV Show "Limitless" to promote NETGEAR Nighthawk (Gaming Router) products. Managed influencer marketing program inventory distribution. 
 
-## 🎵 Music & Content Work
 
-### Adventures of Paws
-- **YouTube:** https://www.youtube.com/@AdventuresofPaws/videos
-- **Spotify Podcast:** https://open.spotify.com/show/3jst1MWmyvGyYZoTeuUW5v
-- **Spotify Artist:** https://open.spotify.com/artist/78HvCp8CL6RotVccSXlBcE
-- **Achievements:** 101.5K Spotify plays, 3,146 consumption hours, +291 followers, 51,977 streams/downloads across 150+ platforms, 508 average per episode, 19,487 audience reach, 46.6% consumption conversion rate, 7-country global reach
-
-### Birthday Magic Adventures
-- **YouTube:** https://www.youtube.com/@BirthdayMagicAdventures
-- **Spotify Podcast:** https://open.spotify.com/show/5BcfrOzTDXhAK3xRTbaJdK
-- **Spotify Artist:** https://open.spotify.com/artist/3MVD64MAW698ThKtage4Ds
-- **Achievements:** 2025 Spotify Wrapped - Marathon Show, Instant Hit Show, Talked About Show, 8-country global reach
-- Created music using ElevenLabs Pro plan and released 22 songs on 150+ platforms worldwide in 3 months
 
 ## Professional Testimonials & Endorsements
 
