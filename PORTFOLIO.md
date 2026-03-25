@@ -6,7 +6,7 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 
 ## Resume
 
-**Growth Product Leader | AI-Driven Marketing Systems | Data & Experimentation | Media Buyer | B2B | B2C | 8+ years**
+**Growth Product Leader | AI-Driven Marketing Systems | Data & Experimentation | Media Buyer | B2B | DTC | B2C | 8+ years**
 
 **Education:** Master of Management (Marketing), Bachelor of Management 
 
