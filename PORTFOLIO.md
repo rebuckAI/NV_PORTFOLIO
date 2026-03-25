@@ -41,6 +41,7 @@ Data-driven product leader with 8+ years of experience in marketing, building ma
 - Developed 64+ ML models (Gamers, IoT, Early Adopters) and A/B & MVT experimentation frameworks to optimize creative and lifecycle performance.
 - Integrated system with Google Ads, Meta, and Braze APIs, automating campaign orchestration.
 - Conducted user research, competitive TAM/SWOT analysis, and built PRDs, taxonomies, and MVP documentation.
+[Plume Harvest Datasheet](https://discover.plume.com/rs/776-GZM-466/images/Plume%20Harvest%20Datasheet.pdf?version=0)
 
 ### Robert Half (Corporate HQ) — B2B Display Marketing Manager / Demand Generation
 **Mar 2019 – Mar 2021 | San Ramon**
