@@ -2,8 +2,7 @@
 
 ## Vision Statement
 
-Data-driven product leader with 8+ years of experience in marketing, building marketing and ads analytics systems, self-serve data tools, and ML-powered insight platforms. Experienced in defining standardized ad metrics, leading cross-functional teams, and delivering visually compelling dashboards that translate data into decisions. Proven track record aligning engineering, data science, and creative teams to build tools that optimize revenue and enhance advertising impact, fully aligned with ElevenLab's mission.
-
+Data-driven product leader with 8+ years of experience in marketing, media buy, building marketing and ads analytics systems, self-serve data tools, and ML-powered insight platforms. Experienced in defining standardized ad metrics, leading cross-functional teams, and delivering visually compelling dashboards that translate data into decisions. Proven track record aligning engineering, data science, and creative teams to build tools that optimize revenue and enhance advertising impact.
 ## Resume
 
 **Growth Product Leader | AI-Driven Marketing Systems | Data & Experimentation | Media Buyer | B2B | DTC | B2C | 8+ years**
