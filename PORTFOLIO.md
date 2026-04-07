@@ -14,7 +14,7 @@ Data-driven product leader with 8+ years of experience in marketing, media buy, 
 - Manage $500K+/month media buy (Google, Meta, Snap Chat, App Lovin, TikTok, TV).
 - Lead acquisition, analytics, and AI-powered creative automation for DTC brands Beauty by Earth and ASARAI.
 - Grew client accounts to maintain 2x ~ 4X ROAS. Overall 2X MER.
-- Built AI-driven content ecosystems on YouTube and Spotify (Adventures of Paws, Birthday Magic Adventures) using ChatGPT, Sora, ElevenLabs and Veo for automation in scripting, narration, and video production. 2025 Spotify Wrapped Report for Adventures of Paws showed Top 10% of all videos on Spotify, more popular than 96% of new shows, more comments than 97% of shows, more shares than 95% of shows. Shows have 140K+ Spotify plays and 70K+ streams and downloaders all time.
+- Created AI-driven content ecosystems on YouTube and Spotify (Adventures of Paws, Birthday Magic Adventures) using ChatGPT, Sora, ElevenLabs and Veo for automation in scripting, narration, and video production. 2025 Spotify Wrapped Report for Adventures of Paws showed Top 10% of all videos on Spotify, more popular than 96% of new shows, more comments than 97% of shows, more shares than 95% of shows. Shows have 140K+ Spotify plays and 70K+ streams and downloaders all time.
 - Created music using ElevenLab's Pro plan and released 24 songs on 150+ platforms worldwide in 3 months.
 ## 🎵 Music & Content Work
 
