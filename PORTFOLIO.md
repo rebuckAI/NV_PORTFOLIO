@@ -62,7 +62,7 @@ Data-driven product leader with 8+ years of experience in marketing, media buy, 
 
 ### Rain Factory (Agency) — Digital Performance Specialist
 **Oct 2015 – Feb 2016 | Oakland**
-- Led AdWords & Meta GTM for ONAGOfly Drone, achieving $1.2M in 2 months and 260% ROAS; total $3.5M campaign.
+- Led AdWords & Meta GTM for ONAGOfly Drone, achieving $1.2M in 2 months and 260% ROAS; total $3.5M campaign. Link: https://www.indiegogo.com/en/projects/samtsu/onagofly-the-smart-nano-drone
 - Managed high-performing social campaigns for Bixi, Codeybot, WowWee Chip, and others.
 
 ### NETGEAR Inc — Digital Marketing Intern 
